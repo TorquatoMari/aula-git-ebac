@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Mari
+-Profissão: Química
+-Cidade:São Paulo
+-O que faz nas horas vaga: games, netflix, academia
+-Feedback sobre o curso Qualidade de Software: Estou curtindo, só acho que as aulas deveriam ser mais longas para aprofundar mais em cada tema
+-Feedback sobre a plataforma de estudo da EBAC: achei
+
+Obrigado!!!
+
+
